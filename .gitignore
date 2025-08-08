@@ -1,0 +1,10 @@
+.venv/
+.nlp_mapper/
+__pycache__/
+*.py[cod]
+*$py.class
+app1/
+app2/
+nlp_mapper/
+app1.py
+app2.py
